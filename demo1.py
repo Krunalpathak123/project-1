@@ -1,2 +1,2 @@
 print("My first project")
-print("branch1")
+print("main1")
