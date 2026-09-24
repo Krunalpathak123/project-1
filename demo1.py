@@ -1,1 +1,1 @@
-print("My first project setup")
+print("My first project")
