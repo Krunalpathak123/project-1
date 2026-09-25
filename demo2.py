@@ -6,3 +6,4 @@ print("this is my first python program")
 print("this is my")
 print("first python program")
 
+print("main2")
